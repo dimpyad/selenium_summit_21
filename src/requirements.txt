@@ -1,0 +1,9 @@
+SpeechRecognition
+gTTS
+selenium
+playsound
+pyAudio
+requests
+playsound
+AppKit
+pyobjc
