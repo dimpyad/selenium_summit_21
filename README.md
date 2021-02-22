@@ -9,3 +9,9 @@ How to install the needed packages:
 How to run the code:
   Run the - Assistent.py - file under src folder to start the voice assistant
   Note: Each module is associated with an main so can executed independently without the voice assistant.
+
+Reference links:
+https://towardsdatascience.com/how-to-build-your-own-ai-personal-assistant-using-python-f57247b4494b
+https://github.com/sohaibalam67/naukri-scrapper/blob/master/naukri.py 
+https://www.techwithtim.net/tutorials/python-programming/sudoku-solver-backtracking/
+https://github.com/doctorjuta/Youtube-scraping-with-Python 
